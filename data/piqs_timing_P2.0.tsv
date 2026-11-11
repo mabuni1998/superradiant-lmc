@@ -1,0 +1,7 @@
+# PIQS (full permutationally invariant Liouvillian) steady state, gamma_P=2.0, gamma_A=gamma_D=0
+method	n0	dim	walltime	n	g2	edge
+piqs	1	40000	0.07279	0.86369417	1.730172	0
+piqs	2	160000	0.3355	5.2794886	1.4179554	0
+piqs	3	360000	1.128	25.326802	1.0382566	0
+piqs	4	1846881	8.026	50.239316	1.0050237	0
+piqs	5	3283344	19.7	75.190393	1.0009748	0

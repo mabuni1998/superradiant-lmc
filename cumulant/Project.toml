@@ -1,0 +1,15 @@
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+QuantumCumulants = "35bcea6d-e19f-57db-af74-8011de6c7255"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+[compat]
+ForwardDiff = "=0.10.39"
+ModelingToolkit = "=10.32.1"
+OrdinaryDiffEq = "=6.103.0"
+QuantumCumulants = "=0.4.3"
+julia = "1.11"

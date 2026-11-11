@@ -1,0 +1,5 @@
+numpy
+matplotlib
+# PIQS cross-check only:
+scipy
+qutip>=5

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SuperradiantLMC"
+authors:
+  - family-names: Bundgaard-Nielsen
+    given-names: Matias
+    affiliation: "NanoPhoton - Center for Nanophotonics, Technical University of Denmark"
+# TODO: repository URL and software DOI once available
+license: MIT
+preferred-citation:
+  type: article
+  title: "Superradiant photon bunching in nanolasers: from a polarization-order hierarchy of the master equation to Dicke Markov chains"
+  authors:
+    - family-names: Bundgaard-Nielsen
+      given-names: Matias
+    - family-names: Mørk
+      given-names: Jesper
+  year: 2026
+  # TODO: journal, volume, DOI or arXiv identifier

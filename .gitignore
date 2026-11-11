@@ -1,0 +1,5 @@
+# symbolic derivations of the cumulant expansion (version specific, regenerated on demand)
+data/cumulant_cache/
+*.jls
+__pycache__/
+*.pyc
