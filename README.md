@@ -2,7 +2,7 @@
 
 Code and data for the paper
 
-> M. Bundgaard-Nielsen and J. Mørk, *Superradiant photon bunching in nanolasers: from a polarization-order hierarchy of the master equation to Dicke Markov chains* (2026). <!-- TODO: journal / arXiv identifier -->
+> M. Bundgaard-Nielsen and J. Mørk, *Superradiant photon bunching in nanolasers: from a polarization-order hierarchy of the master equation to Dicke Markov chains* (2026), [arXiv:2611.15898](https://arxiv.org/abs/2611.15898).
 
 The repository contains every solver compared in the paper and one driver script per figure. The drivers regenerate the data files in `data/`, and a single Python script turns these into the figures. The results used in the paper are included, so the figures can be reproduced without rerunning any calculation.
 
